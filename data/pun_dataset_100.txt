@@ -1,0 +1,323 @@
+PUN GENERATOR DATASET
+==================================================
+
+1. Theme: food
+   Q: What do you call a mill that meets?
+   A: meet grinder
+
+2. Theme: pizza
+   Q: What do you call a darkling_beetle that blooms?
+   A: flower beetle
+
+3. Theme: bread
+   Q: What do you call a darkling_beetle that blooms?
+   A: flower beetle
+
+4. Theme: cheese
+   Q: What do you call a mill that meets?
+   A: meet grinder
+
+5. Theme: meat
+   Q: What do you call a mill that meets?
+   A: meet grinder
+
+6. Theme: fish
+   Q: What do you call a campaign that ends?
+   A: last cause
+
+7. Theme: fruit
+   Q: What do you call a oyster that surrenders?
+   A: cede oyster
+
+8. Theme: cake
+   Q: What do you call a nymphalid that dawns?
+   A: morning cloak
+
+9. Theme: bird
+   Q: What do you call a hen that brews?
+   A: brewed hen
+
+10. Theme: fish
+   Q: What do you call a campaign that ends?
+   A: last cause
+
+11. Theme: cow
+   Q: What do you call a baggage that goes?
+   A: travelling bag
+
+12. Theme: pig
+   Q: What do you call a porpoise that hares?
+   A: haring hog
+
+13. Theme: chicken
+   Q: What do you call a hen that brews?
+   A: brewed hen
+
+14. Theme: rabbit
+   Q: What do you call a mill that meets?
+   A: meet grinder
+
+15. Theme: tree
+   Q: What do you call a pole that ends?
+   A: close tree
+
+16. Theme: grass
+   Q: What do you call a porpoise that hares?
+   A: haring hog
+
+17. Theme: cloud
+   Q: What do you call a effort that lets?
+   A: leased resistance
+
+18. Theme: computer
+   Q: What do you call a visit that quotes?
+   A: cite visit
+
+19. Theme: phone
+   Q: What do you call a bodybuilding that awaits?
+   A: wait gaining
+
+20. Theme: internet
+   Q: What do you call a serve that nets?
+   A: nett ball
+
+21. Theme: robot
+   Q: What do you call a device that signals?
+   A: signalling device
+
+22. Theme: machine
+   Q: What do you call a campaign that ends?
+   A: last cause
+
+23. Theme: code
+   Q: What do you call a access that disks?
+   A: disc access
+
+24. Theme: car
+   Q: What do you call a pedal that has synset('methane.n.01')?
+   A: gass pedal
+
+25. Theme: bus
+   Q: What do you call a packaging that meets?
+   A: meet packing
+
+26. Theme: train
+   Q: What do you call a status that unifies?
+   A: wholly order
+
+27. Theme: bike
+   Q: What do you call a pedal that has synset('methane.n.01')?
+   A: gass pedal
+
+28. Theme: ship
+   Q: What do you call a liner that crews?
+   A: crewes ship
+
+29. Theme: truck
+   Q: What do you call a car that has synset('bodyguard.n.01')?
+   A: guards van
+
+30. Theme: subway
+   Q: What do you call a queue that has synset('methane.n.01')?
+   A: gass line
+
+31. Theme: football
+   Q: What do you call a pitch that brakes?
+   A: braking ball
+
+32. Theme: basketball
+   Q: What do you call a pitch that brakes?
+   A: braking ball
+
+33. Theme: tennis
+   Q: What do you call a hoof that has synset('foal.n.01')?
+   A: horses foot
+
+34. Theme: golf
+   Q: What do you call a sport that teems?
+   A: teem sport
+
+35. Theme: swimming
+   Q: What do you call a descent that knows?
+   A: knows dive
+
+36. Theme: running
+   Q: What do you call a evil that birds?
+   A: fowl play
+
+37. Theme: dancing
+   Q: What do you call a sport that teems?
+   A: teem sport
+
+38. Theme: music
+   Q: What do you call a queue that has synset('methane.n.01')?
+   A: gass line
+
+39. Theme: toy
+   Q: What do you call a pitch that brakes?
+   A: braking ball
+
+40. Theme: house
+   Q: What do you call a face_lift that knows?
+   A: knows job
+
+41. Theme: bedroom
+   Q: What do you call a furniture that has child?
+   A: babies bed
+
+42. Theme: furniture
+   Q: What do you call a wardrobe that ends?
+   A: close closet
+
+43. Theme: door
+   Q: What do you call a access that disks?
+   A: disc access
+
+44. Theme: window
+   Q: What do you call a occasion that canvases?
+   A: sails event
+
+45. Theme: roof
+   Q: What do you call a tineid that ends?
+   A: close moth
+
+46. Theme: school
+   Q: What do you call a education that teems?
+   A: teem teaching
+
+47. Theme: teacher
+   Q: What do you call a salesperson that canvases?
+   A: sails demonstrator
+
+48. Theme: book
+   Q: What do you call a record that spins?
+   A: whirled record
+
+49. Theme: pen
+   Q: What do you call a bitch that brews?
+   A: brewed bitch
+
+50. Theme: paper
+   Q: What do you call a mill that meets?
+   A: meet grinder
+
+51. Theme: desk
+   Q: What do you call a table that equals?
+   A: peer table
+
+52. Theme: job
+   Q: What do you call a face_lift that knows?
+   A: knows job
+
+53. Theme: work
+   Q: What do you call a face_lift that knows?
+   A: knows job
+
+54. Theme: doctor
+   Q: What do you call a evil that birds?
+   A: fowl play
+
+55. Theme: exercise
+   Q: What do you call a effort that lets?
+   A: leased effort
+
+56. Theme: sleep
+   Q: What do you call a occasion that canvases?
+   A: sails event
+
+57. Theme: heart
+   Q: What do you call a pump that has synset('methane.n.01')?
+   A: gass pump
+
+58. Theme: hand
+   Q: What do you call a pitch that brakes?
+   A: braking ball
+
+59. Theme: foot
+   Q: What do you call a hoof that has synset('foal.n.01')?
+   A: horses foot
+
+60. Theme: rain
+   Q: What do you call a reflex that brakes?
+   A: braking wind
+
+61. Theme: wind
+   Q: What do you call a reflex that brakes?
+   A: braking wind
+
+62. Theme: storm
+   Q: What do you call a boxing_match that levers?
+   A: pries fight
+
+63. Theme: spring
+   Q: What do you call a amphipod that has synset('beech.n.02')?
+   A: beech flea
+
+64. Theme: autumn
+   Q: What do you call a occasion that canvases?
+   A: sails event
+
+65. Theme: hot
+   Q: What do you call a campaign that ends?
+   A: last cause
+
+66. Theme: cold
+   Q: What do you call a bodybuilding that awaits?
+   A: wait gaining
+
+67. Theme: blue
+   Q: What do you call a tineid that ends?
+   A: close moth
+
+68. Theme: white
+   Q: What do you call a campaign that ends?
+   A: last cause
+
+69. Theme: painting
+   Q: What do you call a worship that idles?
+   A: idle worship
+
+70. Theme: drawing
+   Q: What do you call a worship that idles?
+   A: idle worship
+
+71. Theme: art
+   Q: What do you call a support that clothes?
+   A: clothes support
+
+72. Theme: color
+   Q: What do you call a darkling_beetle that blooms?
+   A: flower beetle
+
+73. Theme: time
+   Q: What do you call a bit that has synset('centrist.n.01')?
+   A: center bit
+
+74. Theme: calendar
+   Q: What do you call a brake that interrupts?
+   A: break system
+
+75. Theme: birthday
+   Q: What do you call a visit that quotes?
+   A: cite visit
+
+76. Theme: holiday
+   Q: What do you call a count that knows?
+   A: knows count
+
+77. Theme: party
+   Q: What do you call a effort that lets?
+   A: leased resistance
+
+78. Theme: wedding
+   Q: What do you call a affairs that spins?
+   A: whirled affairs
+
+79. Theme: meeting
+   Q: What do you call a visit that quotes?
+   A: cite visit
+
+80. Theme: event
+   Q: What do you call a occasion that canvases?
+   A: sails event
+
