@@ -54,7 +54,7 @@ pun-generator/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/cyrxhwr/pun-generator.git
+   git clone https://github.com/cyrxhwr/Punbelievable.git
    cd pun-generator
    ```
 
@@ -226,8 +226,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/cyrxhwr/pun-generator](https://github.com/cyrxhwr/pun-generator)
-- **Issues**: [https://github.com/cyrxhwr/pun-generator/issues](https://github.com/cyrxhwr/pun-generator/issues)
+- **Project Link**: [https://github.com/cyrxhwr/Punbelievable](https://github.com/cyrxhwr/Punbelievable)
+- **Issues**: [https://github.com/cyrxhwr/Punbelievable/issues](https://github.com/cyrxhwr/Punbelievable/issues)
 
 ---
 
