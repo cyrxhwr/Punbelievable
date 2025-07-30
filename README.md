@@ -39,8 +39,6 @@ pun-generator/
 │   └── system_diagram.png       # Visual system architecture
 ├── tests/                       # Test files
 │   └── test_dataset.py          # Dataset validation tests
-├── requirements.txt              # Python dependencies
-├── setup.py                     # Package installation
 ├── LICENSE                      # MIT License
 └── README.md                    # This file
 ```
@@ -56,16 +54,12 @@ pun-generator/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/pun-generator.git
+   git clone https://github.com/cyrxhwr/pun-generator.git
    cd pun-generator
    ```
 
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-3. **Download NLTK data**
+2. **Download NLTK data**
    ```python
    import nltk
    nltk.download('wordnet')
@@ -232,8 +226,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/yourusername/pun-generator](https://github.com/yourusername/pun-generator)
-- **Issues**: [https://github.com/yourusername/pun-generator/issues](https://github.com/yourusername/pun-generator/issues)
+- **Project Link**: [https://github.com/cyrxhwr/pun-generator](https://github.com/cyrxhwr/pun-generator)
+- **Issues**: [https://github.com/cyrxhwr/pun-generator/issues](https://github.com/cyrxhwr/pun-generator/issues)
 
 ---
 
